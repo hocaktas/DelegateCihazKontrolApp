@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29609.76
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelegateCihazKontrolApp", "DelegateCihazKontrolApp\DelegateCihazKontrolApp.csproj", "{D309A85C-CEDD-473D-BA57-2E6B7A6DFE4C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D309A85C-CEDD-473D-BA57-2E6B7A6DFE4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D309A85C-CEDD-473D-BA57-2E6B7A6DFE4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D309A85C-CEDD-473D-BA57-2E6B7A6DFE4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D309A85C-CEDD-473D-BA57-2E6B7A6DFE4C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4FAA3C31-4F3B-482E-A035-9EA1D069A4DF}
+	EndGlobalSection
+EndGlobal
